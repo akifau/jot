@@ -1,0 +1,9 @@
+{
+  "name": "CustomWidget",
+  "description": "A custom widget example for Jotform",
+  "icon": "https://example.com/icon.png",
+  "js": "widget.js",
+  "css": "widget.css",
+  "sandbox": true,
+  "version": "1.0.0"
+}
